@@ -63,4 +63,19 @@ Conclusion:
 This project developed a simplified aircraft electrical power management and fault detection system using Python. It demonstrated how electrical loads, power distribution, backup systems, and fault conditions can be modelled and tested.
 
 
+## Project Screenshots
+
+### Electrical Demand Analysis
+
+![Electrical Demand Graph](images/graph.png)
+
+### Results
+
+![Results](images/results.png)
+
+### Interactive Interface
+
+![Gradio Interface](images/gradio.png)
+
+
 
