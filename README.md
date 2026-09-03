@@ -69,9 +69,9 @@ This project developed a simplified aircraft electrical power management and fau
 ![Electrical Demand Graph](download.png)
 
 ### Results
-![Results](results.png)
+![Results](res)
 
 ### Interactive Interface
-![Gradio Interface](gradio.png)
+![Gradio Interface](Screenshot 2026-09-03 231820.png)
 
 
