@@ -66,7 +66,7 @@ This project developed a simplified aircraft electrical power management and fau
 ## Project Screenshots
 
 ### Electrical Demand Analysis
-![Electrical Demand Graph](download.png)
+![Electrical Demand Graph](Screenshot 2026-09-03 231533.png)
 
 ### Results
 ![Results](res)
